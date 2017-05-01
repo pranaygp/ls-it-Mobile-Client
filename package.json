@@ -1,8 +1,8 @@
 {
   "name": "ls-it-mobile-client",
-  "version": "0.0.0",
-  "description": "Hello Expo!",
-  "author": null,
+  "version": "1.0.0",
+  "description": "Mobile Client for my todo list (learn more at http://github.com/pranaygp/ls-it)",
+  "author": "Pranay Prakash <pranay.gp@gmail.com>",
   "private": true,
   "main": "main.js",
   "dependencies": {
