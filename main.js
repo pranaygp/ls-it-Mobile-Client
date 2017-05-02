@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import WebSocket from 'reconnecting-websocket';
 import { Text, View, StyleSheet, TouchableOpacity, TextInput, KeyboardAvoidingView, ScrollView, Dimensions} from 'react-native';
 import Expo, { Constants } from 'expo';
 
